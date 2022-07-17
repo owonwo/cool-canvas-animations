@@ -1,0 +1,19 @@
+{
+  "name": "web-visuals",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "canvas-sketch sketch-skew --open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas-sketch": "^0.7.5",
+    "canvas-sketch-cli": "^1.11.15",
+    "canvas-sketch-util": "^1.10.0",
+    "ramda": "^0.28.0",
+    "riso-colors": "^1.0.1"
+  }
+}
